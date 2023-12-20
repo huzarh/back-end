@@ -1,0 +1,192 @@
+[
+    {
+      name: 'ALFABE',
+      desc: `~ Türk alfabesinde 29 harf vardır.
+      Harflerin 21’i ünsüz, 8’i ünlü harftir. Ünsüz harfler yanına “e” harfi getirilerek söylenir.
+      
+      ~ Ünsüz harfler: b, c, ç, d, f, g, ğ, h, j, k, l, m, n, p, r, s, ş, t, v, y, z
+      
+      Ünlü harfler (Sesli harfler)             
+      Kalın Ünlüler: a, ı, o, u             
+      İnce Ünlüler: e, i, ö, ü`,
+      photo:'',
+      exampleSentence:'',
+      desc2:`~ Türkçe’de “ğ” kelimenin başında bulunmaz, ortasında ve sonunda bulunabilir. (yağmur, dağ, öğretmen, öğrenci)
+  
+      ~ Büyük harflerin kullanıldığı yerler:
+      Cümle başında: Okula gittim.
+      
+      Özel isimlerde: Bugün Ali ve Ahmet kafeye gidiyor.
+      Başlıklarda: “Aile ve Çocuk” başlıklı yazı çok güzeldi.
+      Kısaltmalarda: TC (Türkiye Cumhuriyeti)
+      ~ Küçük harfler her zaman cümle içinde kullanılır: Dün okula gittim.
+      `,
+      quiz:[
+        {
+          type:'audio',
+          question: 'Ç',
+          answer: 'Ç',
+          options:['T','H','Ç' ,'C'],
+        },
+        {
+          type:'audio',
+          question: 'Ö',
+          answer: 'Ö',
+          options:['O','E','Ö' ,'Ü'],
+        },
+        {
+          type:'audio',
+          question: 'S',
+          answer: 'S',
+          options:['C','S','Q' ,'W'],
+        },
+        {
+          type:'audio',
+          question: 'C',
+          answer: 'C',
+          options:['C','H','Ç' ,'J'],
+        },
+        {
+          type:'input',
+          question: 'Cüzdan kelimesi hangi harfiyle başlıyor ?',
+          answer: 'C',
+          options: '',
+        },
+        {
+          type:'input',
+          question: 'Araba kelimesi hangi harfiyle başlıyor ?',
+          answer: 'A',
+          options: '',
+        },
+        {
+          type:'input',
+          question: 'Ders kelimesi hangi harfiyle başlıyor ?',
+          answer: 'D',
+          options: '',
+        },
+        {
+          type:'input',
+          question: 'Kitap kelimesi hangi harfiyle başlıyor ?',
+          answer: 'K',
+          options: '',
+        },
+        {
+          type:'voice',
+          question: 'Resme göre isimin söyleyin.',
+          answer: 'Elma',
+          options: ['https://www.verita.com.tr/wp-content/uploads/2014/08/elma.jpg'],
+        },
+        {
+          type:'voice',
+          question: 'Resme göre isimin söyleyin.',
+          answer: 'çocuk',
+          options: ['https://image.psikologofisi.com/blog/1586690634_839197.jpg'],
+        },
+        {
+          type:'voice',
+          question: 'Resme göre isimin söyleyin.',
+          answer: 'Ağaç',
+          options: ['https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSqwzsZYvIYRC8MCGpgkQFnywMC-1AoU80UM-HNNVrUKjwF1Qb'],
+        },
+        {
+          type:'voice',
+          question: 'Resme göre isimin söyleyin.',
+          answer: 'Masa',
+          options: ['https://akn-mudo.b-cdn.net/products/2017/03/27/113873/d5354884-8656-4934-a510-589a70f65c86.jpg'],
+        }
+      ]
+    },
+    {
+      name: 'TANIŞMA',
+      desc: `
+      Murat: Merhaba!
+      İrem: Merhaba!
+      Murat: Benim adım Murat. Senin adın ne?
+      İrem: Benim adım İrem. 
+      Murat: Memnun oldum.
+      İrem: Ben de memnun oldum.
+      Murat: Nasılsın?
+      İrem: İyiyim. Sen nasılsın?
+      Murat: Ben de iyiyim.
+      İrem: Hoşça kal!
+      Murat: Güle güle!
+      `,
+      photo:'',
+      exampleSentence:'',
+      desc2:``,
+      quiz:[
+        {
+          type:'audio',
+          question: 'İyi yolculuklar',
+          answer: 'İyi yolculuklar',
+          options:'',
+        },
+        {
+          type:'audio',
+          question: 'Günaydın',
+          answer: 'Günaydın',
+          options:[],
+        },
+        {
+          type:'audio',
+          question: 'Merhaba',
+          answer: 'Merhaba',
+          options:[],
+        },
+        {
+          type:'audio',
+          question: 'Hoş geldin',
+          answer: 'Hoş geldin',
+          options:[],
+        },
+        {
+          type:'input',
+          question: 'Cüzdan kelimesi hangi harfiyle başlıyor ?',
+          answer: 'C',
+          options: '',
+        },
+        {
+          type:'input',
+          question: 'Araba kelimesi hangi harfiyle başlıyor ?',
+          answer: 'A',
+          options: '',
+        },
+        {
+          type:'input',
+          question: 'Ders kelimesi hangi harfiyle başlıyor ?',
+          answer: 'D',
+          options: '',
+        },
+        {
+          type:'input',
+          question: 'Kitap kelimesi hangi harfiyle başlıyor ?',
+          answer: 'K',
+          options: '',
+        },
+        {
+          type:'voice',
+          question: 'Resme göre isimin söyleyin.',
+          answer: 'Elma',
+          options: [],
+        },
+        {
+          type:'voice',
+          question: 'Resme göre isimin söyleyin.',
+          answer: 'çocuk',
+          options: [],
+        },
+        {
+          type:'voice',
+          question: 'Resme göre isimin söyleyin.',
+          answer: 'Ağaç',
+          options: [],
+        },
+        {
+          type:'voice',
+          question: 'Resme göre isimin söyleyin.',
+          answer: 'Masa',
+          options: [],
+        }
+      ]
+    }
+  ];

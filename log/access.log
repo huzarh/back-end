@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+=======
+::1 - - [31/Oct/2023:07:22:08 +0000] "GET /fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 404 179 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+::1 - - [31/Oct/2023:07:22:08 +0000] "GET /fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 178 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+::1 - - [31/Oct/2023:07:22:08 +0000] "GET /fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 177 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+::1 - - [31/Oct/2023:07:22:10 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+::1 - - [31/Oct/2023:07:22:40 +0000] "GET /api/v1/users HTTP/1.1" 200 1718 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+::1 - - [31/Oct/2023:07:22:40 +0000] "GET /api/v1/users HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+::1 - - [13/Nov/2023:21:20:00 +0000] "POST /api/v1/users/login HTTP/1.1" 200 455 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+::1 - - [13/Nov/2023:21:22:34 +0000] "GET /download HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+::1 - - [13/Nov/2023:21:22:34 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:5000/download" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+::1 - - [13/Nov/2023:21:26:20 +0000] "GET /fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 404 179 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+::1 - - [13/Nov/2023:21:26:20 +0000] "GET /fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 178 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+::1 - - [13/Nov/2023:21:26:20 +0000] "GET /fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 177 "http://localhost:5000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+::1 - - [13/Nov/2023:21:26:33 +0000] "GET /api/v1/download HTTP/1.1" 404 154 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+::1 - - [13/Nov/2023:21:26:38 +0000] "GET /download HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+::1 - - [13/Nov/2023:21:26:44 +0000] "GET /Download HTTP/1.1" 404 312 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+::1 - - [13/Nov/2023:21:29:02 +0000] "GET /download HTTP/1.1" 404 312 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+::1 - - [13/Nov/2023:21:29:09 +0000] "GET /download HTTP/1.1" 404 312 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+::1 - - [13/Nov/2023:21:29:10 +0000] "GET /download HTTP/1.1" 404 312 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+::1 - - [13/Nov/2023:21:31:15 +0000] "GET /download HTTP/1.1" 200 30917050 "http://localhost:3000/" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1"
+>>>>>>> 94a3ccd41cee7fce5fc5bafab9cd91c98bd08413
